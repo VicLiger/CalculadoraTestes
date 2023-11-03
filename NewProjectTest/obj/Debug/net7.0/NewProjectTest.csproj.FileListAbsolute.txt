@@ -1,0 +1,14 @@
+C:\Users\victo\OneDrive\Documentos\C#\NewProjectCalculadora\NewProjectTest\NewProjectTest\obj\Debug\net7.0\NewProjectTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Documentos\C#\NewProjectCalculadora\NewProjectTest\NewProjectTest\obj\Debug\net7.0\NewProjectTest.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Documentos\C#\NewProjectCalculadora\NewProjectTest\NewProjectTest\obj\Debug\net7.0\NewProjectTest.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Documentos\C#\NewProjectCalculadora\NewProjectTest\NewProjectTest\obj\Debug\net7.0\NewProjectTest.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Documentos\C#\NewProjectCalculadora\NewProjectTest\NewProjectTest\bin\Debug\net7.0\NewProjectTest.exe
+C:\Users\victo\OneDrive\Documentos\C#\NewProjectCalculadora\NewProjectTest\NewProjectTest\bin\Debug\net7.0\NewProjectTest.deps.json
+C:\Users\victo\OneDrive\Documentos\C#\NewProjectCalculadora\NewProjectTest\NewProjectTest\bin\Debug\net7.0\NewProjectTest.runtimeconfig.json
+C:\Users\victo\OneDrive\Documentos\C#\NewProjectCalculadora\NewProjectTest\NewProjectTest\bin\Debug\net7.0\NewProjectTest.dll
+C:\Users\victo\OneDrive\Documentos\C#\NewProjectCalculadora\NewProjectTest\NewProjectTest\bin\Debug\net7.0\NewProjectTest.pdb
+C:\Users\victo\OneDrive\Documentos\C#\NewProjectCalculadora\NewProjectTest\NewProjectTest\obj\Debug\net7.0\NewProjectTest.dll
+C:\Users\victo\OneDrive\Documentos\C#\NewProjectCalculadora\NewProjectTest\NewProjectTest\obj\Debug\net7.0\refint\NewProjectTest.dll
+C:\Users\victo\OneDrive\Documentos\C#\NewProjectCalculadora\NewProjectTest\NewProjectTest\obj\Debug\net7.0\NewProjectTest.pdb
+C:\Users\victo\OneDrive\Documentos\C#\NewProjectCalculadora\NewProjectTest\NewProjectTest\obj\Debug\net7.0\NewProjectTest.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Documentos\C#\NewProjectCalculadora\NewProjectTest\NewProjectTest\obj\Debug\net7.0\ref\NewProjectTest.dll
